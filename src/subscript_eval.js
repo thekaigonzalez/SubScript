@@ -1,5 +1,5 @@
 const subscript_parser = require("./subscript_parser")
-const deepslate = require("DeepSlate.js");
+const deepslate = require("DeepSlate");
 const SubSAST = subscript_parser.GenAST
 
 function b_println(args) {
