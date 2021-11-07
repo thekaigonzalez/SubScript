@@ -1,3 +1,5 @@
+[SubScript Logo](./media/subscript-logo.png)
+<!------>
 # SubScript
 
 Official Repository for the SubScript language.
