@@ -1,4 +1,4 @@
-[SubScript Logo](./media/subscript-logo.png)
+![SubScript Logo](./media/subscript-logo.png)
 <!------>
 # SubScript
 
