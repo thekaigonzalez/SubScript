@@ -6,5 +6,5 @@ console.log("SubScript Interactive Console v1.0")
 
 while (true) {
     const code = prompt(">>>")
-    subscript.Eval(code)
+    console.log(subscript.Eval(code))
 }
